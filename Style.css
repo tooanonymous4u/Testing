@@ -1,10 +1,10 @@
 html,
 body {
-              background-image: url('BG.jpg');
-              background-repeat: no-repeat;
-              background-attachment: fixed;
-              background-size: cover;
-            }
+      background-image: url('BG.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+}
            
 
 
