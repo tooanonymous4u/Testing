@@ -8,6 +8,7 @@ body {
 
 .header {
 	background: #fbff00;
+	padding: 10px;
 }
 
 .header__logo {
@@ -59,7 +60,7 @@ body {
 	width: 150px;
 	background: #ff0000;
 	text-align: left;
-	padding: 10px 0;
+	padding: 8px 0;
 	z-index: 9;
 	opacity: 0;
 	visibility: hidden;
