@@ -116,3 +116,7 @@ body {
 .slicknav_menu {
 	display: none;
 }
+
+img {width: 100px;
+	height: 50px;
+}
