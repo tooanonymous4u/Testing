@@ -7,7 +7,7 @@ body {
 }
 
 .header {
-	background: #8c8d62;
+	background: #fbff00;
 }
 
 .header__logo {
@@ -30,12 +30,12 @@ body {
 }
 
 .header__menu ul li.active a {
-	background: #8f8bc9;
+	background: #ff0000;
 	color: #ffffff;
 }
 
 .header__menu ul li:hover a {
-	color: #ffffff;
+	color: #ff0000;
 }
 
 .header__menu ul li:hover .dropdown {
@@ -57,7 +57,7 @@ body {
 	left: 0;
 	top: 82px;
 	width: 150px;
-	background: #9c97e5;
+	background: #ff0000;
 	text-align: left;
 	padding: 5px 0;
 	z-index: 9;
