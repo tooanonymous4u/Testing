@@ -34,11 +34,11 @@ body {
 
 .header__menu ul li.active a {
 	background: #b4a861;
-	color: #ffffff;
+	color: #f8f8f8;
 }
 
 .header__menu ul li:hover a {
-	color: #ff0000;
+	color: #a89090;
 }
 
 .header__menu ul li:hover .dropdown {
@@ -60,7 +60,7 @@ body {
 	left: 0;
 	top: 82px;
 	width: 150px;
-	background: #ff0000;
+	background: #b4a861;
 	text-align: left;
 	padding: 8px 0;
 	z-index: 9;
