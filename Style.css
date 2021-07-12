@@ -123,3 +123,21 @@ body {
 img {width: 250px;
 	height: 60px;
 }
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 15px;
+}
+  
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+p.outset {border-style: outset;} 
+
+@media screen and (max-width:600px) {
+	.column {
+	  width: 100%;
+}
+}
