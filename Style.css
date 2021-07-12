@@ -14,7 +14,7 @@ body {
 }
 
 .header__logo {
-	padding: 10px 0 17px;
+	padding: 5px 0 5px;
 }
 
 .header__logo a {
@@ -120,6 +120,6 @@ body {
 	display: none;
 }
 
-img {width: 100px;
-	height: 50px;
+img {width: 250px;
+	height: 60px;
 }
