@@ -9,8 +9,8 @@ body {
 
 
 .header {
-	background: #fbff00;
-	padding: 10px;
+	background: #dac152;
+	padding: 5px 0 0;
 }
 
 .header__logo {
@@ -22,7 +22,7 @@ body {
 }
 
 .header__menu {
-	text-align: center;
+	text-align: right;
 }
 
 .header__menu ul li {
@@ -33,7 +33,7 @@ body {
 }
 
 .header__menu ul li.active a {
-	background: #ff0000;
+	background: #b4a861;
 	color: #ffffff;
 }
 
